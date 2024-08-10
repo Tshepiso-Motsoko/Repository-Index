@@ -254,7 +254,7 @@ Validates credit card numbers using Luhn's algorithm. Checks the length of the n
 ### 1. [Virtual-Planner](https://github.com/Tshepiso-Motsoko/Virtual-Planner)
 A React-based web application for task management and scheduling.
 
-# Lua
+# Lua Projects
 ### [first-game](https://github.com/Tshepiso-Motsoko/first-game): A dynamic driving game developed with the LÖVE framework.
 
 # SQL Projects
