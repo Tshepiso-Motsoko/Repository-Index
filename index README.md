@@ -256,3 +256,7 @@ A React-based web application for task management and scheduling.
 
 # Lua
 ### [first-game](https://github.com/Tshepiso-Motsoko/first-game): A dynamic driving game developed with the LÖVE framework.
+
+# SQL Projects
+
+### [fiftyville](https://github.com/Tshepiso-Motsoko/fiftyville)**: SQL-based project where I solved the mystery of Harvard's CS50's stolen duck in the town of Fiftyville by querying 
